@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+
+p{
+    background-color: orange;
+    color: red;
+}
+
+button{
+    background-color: lightgreen;
+    color: darkblue;
+}
+
+#div_emojis{
+    background-color: darkred;
+}
+
+h4{
+    color: aqua;
+}
